@@ -3,3 +3,10 @@
 // times as the input number
 //
 // Name the function "finalFunction"
+function finalFunction(num) {
+    let arr = [];
+    for (i = 0; i < num; i++) {
+        arr.push("string")
+    }
+    return arr
+}
